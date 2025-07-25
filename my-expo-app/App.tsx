@@ -10,7 +10,6 @@ export default function App() {
   return (
     <SafeAreaView className="flex-1 bg-green-400">
       <StatusBar style="light" />
-      <Header/>
       {/* Profile */}
       {/* <View className="items-center mb-4">
         <Image
