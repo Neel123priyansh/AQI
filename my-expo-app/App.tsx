@@ -9,15 +9,13 @@ export default function App() {
   return (
     <SafeAreaView className="flex-1 bg-green-400">
       <StatusBar style="light" />
-
       {/* Header
       <View className="flex-row items-center justify-between px-6 py-4">
         <AntDesign name="arrowleft" size={28} color="white" />
         <Feather name="bell" size={28} color="white" />  
       </View> */}
-
       {/* Profile */}
-      <View className="items-center mb-4">
+      {/* <View className="items-center mb-4">
         <Image
           source={{ uri: "https://via.placeholder.com/80" }} 
           className="w-20 h-20 rounded-full border-4 border-white"
@@ -25,7 +23,7 @@ export default function App() {
         <Text className="text-white text-xl font-semibold mt-2">
           Edria Salsa
         </Text>
-      </View>
+      </View> */}
 
       {/* AQI Card */}
       <View className="bg-white mx-6 rounded-3xl p-6">
