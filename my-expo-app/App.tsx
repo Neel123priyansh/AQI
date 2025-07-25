@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { View, Text, SafeAreaView, Pressable, Image } from 'react-native';
 import AntDesign from '@expo/vector-icons/AntDesign';
 import Feather from '@expo/vector-icons/Feather';
+import Header from 'components/header';
 
 import './global.css'; // for NativeWind
 
@@ -9,11 +10,7 @@ export default function App() {
   return (
     <SafeAreaView className="flex-1 bg-green-400">
       <StatusBar style="light" />
-      {/* Header
-      <View className="flex-row items-center justify-between px-6 py-4">
-        <AntDesign name="arrowleft" size={28} color="white" />
-        <Feather name="bell" size={28} color="white" />  
-      </View> */}
+      <Header/>
       {/* Profile */}
       {/* <View className="items-center mb-4">
         <Image
