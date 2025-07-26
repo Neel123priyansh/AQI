@@ -29,7 +29,6 @@ export default function App() {
         <Text className="text-2xl font-bold text-red-500 mb-4">
           Unhealthy
         </Text>
-
         <View className="flex-row justify-around mb-4">
           <View className="items-center">  
             <Text className="text-3xl font-bold text-red-500">160</Text>
