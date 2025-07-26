@@ -63,7 +63,6 @@ export default function App() {
           </View>
         </View>
       </View>
-
       {/* Graph Tabs */}
       <View className="flex-row justify-center mt-6">
         <Pressable className="bg-green-600 px-4 py-2 rounded-full mr-2">
