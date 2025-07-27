@@ -32,7 +32,7 @@ export default function App() {
           <View className="items-center">  
             <Text className="text-3xl font-bold text-red-500">160</Text>
             <Text className="text-sm text-gray-600">AQI</Text>
-          </View>   
+          </View>
           <View className="items-center">
             <Text className="text-3xl font-bold text-red-500">73</Text> 
             <Text className="text-sm text-gray-600">PM2.5</Text>
