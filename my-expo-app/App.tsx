@@ -19,7 +19,7 @@ export default function App() {
         <Text className="text-white text-xl font-semibold mt-2">
           Edria Salsa 
         </Text>
-      </View> */} 
+      </View> */}  
       {/* AQI Card */}  
       <View className="bg-white mx-6 my-[2rem] rounded-3xl p-6"> 
         <Text className="text-gray-800 font-semibold mb-2">
