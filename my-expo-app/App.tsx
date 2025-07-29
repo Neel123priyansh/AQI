@@ -35,7 +35,7 @@ export default function App() {
           </View>
           <View className="items-center">
             <Text className="text-3xl font-bold text-red-500">73</Text> 
-            <Text className="text-sm text-gray-600">PM2.</Text>
+            <Text className="text-sm text-gray-600">PM2.5</Text>
           </View>  
         </View>
         <View className="flex-row items-center mb-2"> 
