@@ -4,7 +4,7 @@ import AntDesign from '@expo/vector-icons/AntDesign';
 import Feather from '@expo/vector-icons/Feather'; 
 //import Header from 'components/header';
 
-import './global.css'; // for NativeWind
+import './global.css'; // for NativeWind 
  
 export default function App() {
   return (
