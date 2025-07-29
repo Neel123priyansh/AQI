@@ -55,7 +55,7 @@ export default function App() {
             <Text className="mt-1 text-xs text-gray-600">Jog</Text>
           </View>
           <View className="items-center">
-            <Text className="mt-1 text-xs text-gray-600">Indoor</Text>
+            <Text className="mt-1 text-xs text-gray-600">Indoor</Text> 
           </View>
           <View className="items-center">
             <Text className="mt-1 text-xs text-gray-600">Purifier</Text>
