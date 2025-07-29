@@ -43,7 +43,7 @@ export default function App() {
             Keep windows closed for cleaner indoor air 
           </Text>
         </View>  
-        <Text className="text-center text-red-500 mt-2 font-bold"> 
+        <Text className="text-center text-red-500 mt-2 font-bold">  
           Wear a mask if you are outside   
         </Text>
         {/* Health Recommendations */}  
