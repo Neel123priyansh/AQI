@@ -66,7 +66,7 @@ export default function App() {
       <View className="flex-row justify-center mt-6">
         <Pressable className="bg-green-600 px-4 py-2 rounded-full mr-2">
           <Text className="text-white text-sm">AQI Past 24 hours</Text>  
-        </Pressable>
+        </Pressable> 
         <Pressable className="bg-gray-200 px-4 py-2 rounded-full">
           <Text className="text-gray-800 text-sm">AQI Daily Averages</Text>
         </Pressable>
