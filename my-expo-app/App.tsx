@@ -23,7 +23,7 @@ export default function App() {
       {/* AQI Card */}  
       <View className="bg-white mx-6 my-[2rem] rounded-3xl p-6"> 
         <Text className="text-gray-800 font-semibold mb-2"> 
-          📍 Jakarta, Indonesia 
+          📍 New Delhi, Indonesia 
         </Text>
         <Text className="text-2xl font-bold text-red-500 mb-4">   
           Unhealthy
