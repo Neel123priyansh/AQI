@@ -68,7 +68,7 @@ export default function App() {
           <Text className="text-white text-sm">AQI Past 24 hours</Text>  
         </Pressable> 
         <Pressable className="bg-gray-200 px-4 py-2 rounded-full">
-          <Text className="text-gray-800 text-sm">AQI Daily Averages</Text>
+          <Text className="text-gray-800 text-sm">AQI Daily Averages</Text> 
         </Pressable>
       </View>
     </SafeAreaView>
