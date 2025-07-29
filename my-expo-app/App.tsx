@@ -69,7 +69,7 @@ export default function App() {
         </Pressable> 
         <Pressable className="bg-gray-200 px-4 py-2 rounded-full">
           <Text className="text-gray-800 text-sm">AQI Daily Averages</Text> 
-        </Pressable>
+        </Pressable> 
       </View>
     </SafeAreaView>
   );
