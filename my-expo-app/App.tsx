@@ -38,7 +38,7 @@ export default function App() {
             <Text className="text-sm text-gray-600">PM2.5</Text>
           </View>  
         </View>
-        <View className="flex-row items-center mb-2">
+        <View className="flex-row items-center mb-2"> 
           <Text className="ml-2 text-red-500 font-medium">  
             Keep windows closed for cleaner indoor air
           </Text>
