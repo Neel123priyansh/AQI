@@ -8,7 +8,7 @@ import './global.css'; // for NativeWind
  
 export default function App() {
   return (
-    <SafeAreaView className="flex-1 bg-green-400">
+    <SafeAreaView className="flex-1 bg-green-400"> 
       <StatusBar style="light" />
       {/* Profile */}
       {/* <View className="items-center mb-4">
