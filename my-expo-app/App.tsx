@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { View, Text, SafeAreaView, Pressable, Image } from 'react-native'; 
-import AntDesign from '@expo/vector-icons/AntDesign';
+import AntDesign from '@expo/vector-icons/AntDesign'; 
 import Feather from '@expo/vector-icons/Feather';  
 //import Header from 'components/header';
 
