@@ -29,7 +29,7 @@ export default function App() {
           Unhealthy
         </Text>
         <View className="flex-row justify-around mb-4">  
-          <View className="items-center">   
+          <View className="items-center">    
             <Text className="text-3xl font-bold text-red-500">160</Text> 
             <Text className="text-sm text-gray-600">AQI</Text>
           </View>
