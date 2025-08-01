@@ -45,7 +45,7 @@ export default function App() {
         </View>  
         <Text className="text-center text-red-500 mt-2 font-bold">  
           Wear a mask if you are outside   
-        </Text>
+        </Text> 
         {/* Health Recommendations */}  
         <View className="flex-row justify-around mt-6"> 
           <View className="items-center"> 
