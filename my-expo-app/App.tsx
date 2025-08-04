@@ -24,7 +24,7 @@ export default function App() {
       <View className="bg-white mx-6 my-[2rem] rounded-3xl p-6"> 
         <Text className="text-gray-800 font-semibold mb-2">     
           📍 New Delhi, India
-        </Text>
+        </Text> 
         <Text className="text-2xl font-bold text-red-500 mb-4">    
           Unhealthy
         </Text>
