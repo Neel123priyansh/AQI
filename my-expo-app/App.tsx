@@ -10,7 +10,7 @@ export default function App() {
   return (
     <SafeAreaView className="flex-1 bg-green-400">  
       <StatusBar style="light" />
-      {/* Profile */}
+      {/* Profile */} 
       {/* <View className="items-center mb-4">
         <Image
           source={{ uri: "https://via.placeholder.com/80" }} 
