@@ -71,6 +71,6 @@ export default function App() {
           <Text className="text-gray-800 text-sm">AQI Daily Averages </Text> 
         </Pressable> 
       </View>
-    </SafeAreaView>
+    </SafeAreaView> 
   );
 }
