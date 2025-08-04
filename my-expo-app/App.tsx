@@ -26,7 +26,7 @@ export default function App() {
           📍 New Delhi, India
         </Text> 
         <Text className="text-2xl font-bold text-red-500 mb-4">    
-          Unhealthy
+          Unhealthy 
         </Text>
         <View className="flex-row justify-around mb-4">   
           <View className="items-center">    
