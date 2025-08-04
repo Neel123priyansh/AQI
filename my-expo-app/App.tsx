@@ -31,7 +31,7 @@ export default function App() {
         <View className="flex-row justify-around mb-4">   
           <View className="items-center">    
             <Text className="text-3xl font-bold text-red-500">160</Text> 
-            <Text className="text-sm text-gray-600">AQI</Text>
+            <Text className="text-sm text-gray-600">AQI</Text> 
           </View> 
           <View className="items-center"> 
             <Text className="text-3xl font-bold text-red-500">73</Text>  
