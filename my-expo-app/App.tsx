@@ -5,7 +5,7 @@ import Feather from '@expo/vector-icons/Feather';
 //import Header from 'components/header';
 
 import './global.css'; // for NativeWind 
- 
+  
 export default function App() {
   return (
     <SafeAreaView className="flex-1 bg-green-400">  
