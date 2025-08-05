@@ -50,7 +50,7 @@ export default function App() {
         <View className="flex-row justify-around mt-6"> 
           <View className="items-center"> 
             <Text className="mt-1 text-xs text-gray-600">Mask</Text> 
-          </View> 
+          </View>  
           <View className="items-center"> 
             <Text className="mt-1 text-xs text-gray-600">Jog</Text>   
           </View>  
