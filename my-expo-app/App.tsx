@@ -61,7 +61,7 @@ export default function App() {
             <Text className="mt-1 text-xs text-gray-600">Purifier</Text>   
           </View>
         </View>
-      </View> 
+      </View>  
       {/* Graph Tabs */}
       <View className="flex-row justify-center mt-6"> 
         <Pressable className="bg-green-600 px-4 py-2 rounded-full mr-2">
