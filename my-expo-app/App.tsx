@@ -72,7 +72,7 @@ export default function App() {
         </Pressable>  
       </View> 
     </SafeAreaView> 
-  );  
+  );   
 } 
  
  
